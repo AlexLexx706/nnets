@@ -1,4 +1,4 @@
-# test to pets nnet.
+# test of pets nnet.
 
 requirements: `pip install -r requirements.txt`
 
